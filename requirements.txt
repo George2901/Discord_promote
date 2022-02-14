@@ -1,0 +1,5 @@
+beautifulsoup4==4.10.0
+discum==1.4.0
+requests==2.25.1
+selenium==4.1.0
+undetected_chromedriver==3.1.3
